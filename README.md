@@ -2,7 +2,7 @@
 
 # About Me
 * I love developing with my music at volume 100, Air Pods in and chilling in my own world
-* I am the Owner of <a "https://discord.gg/2kFJVUzjat">Silly Evia Studios</a>
+* I am the Owner of <a herf="https://discord.gg/2kFJVUzjat">Silly Evia Studios</a>
 * I mainly work on Discord Bots & Roblox Games
 * I'm a front end developer
 * I love learning new coding languages
